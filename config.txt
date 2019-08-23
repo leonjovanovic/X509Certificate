@@ -1,0 +1,5 @@
+DSA
+key usage
+subject directory attributes
+basic constraints
+extensions rules
